@@ -1,0 +1,21 @@
+{
+    "name": "idemas/idemas-demo",
+    "description": "Idemas Module",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Idemas",
+            "email": "kireniusjobs@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "idemas\\demo\\": ""
+        }
+    }
+}
